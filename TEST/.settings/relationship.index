@@ -35,11 +35,7 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_p6UMQFBUEe2Q7er56FQMhQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_fKInMFBUEe2Q7er56FQMhQ - metadata",
+    "id" : "_8WbDgFN7Ee2FOcGQP2mQhA - metadata",
     "version" : "Latest",
     "type" : "schema"
   } ]
