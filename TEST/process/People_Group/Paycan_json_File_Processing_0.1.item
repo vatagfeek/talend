@@ -43,7 +43,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:/izCE+eZMjpb0NV1etC/9gEf1QTwM3BGioouvSoa"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:MbfTDnWv5N5UFA60x4vINggeJgG0+Hrvc1vbGmCG"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -78,7 +78,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value=""/>
     <elementParameter field="TEXT" name="USER" value="&quot;root&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:0ali1EzDqHnAJOGICcPgGibMIVuK5BgJleTQcLGNG/M8fl2EMrSW"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:y3q5owmnDxF5etndNO2+uOiVgut6Kr/PbZqZhnD8x/2jQnu6Ag89"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;stats&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;logs&quot;"/>
@@ -119,7 +119,7 @@
     <elementParameter field="FILE" name="PROFILE_PATH" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="PROFILE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ACCESS_KEY" value="&quot;AKIAVW3O72EIST2ZBI43&quot;"/>
-    <elementParameter field="PASSWORD" name="SECRET_KEY" value="enc:system.encryption.key.v1:SmMtKgqenBYBTahgkGqpgRpq2B+KpJCuVtDtLCMC2sqP4Wa+rF8vdOmfe+JLeOC3fXM0KtaY+bU98Qr24qPGriPIfaRh1w=="/>
+    <elementParameter field="PASSWORD" name="SECRET_KEY" value="enc:system.encryption.key.v1:YsuYGYBPriejUZzD7uuGiEFvN9WlfegjvEC46ONpkiKUucEXQh3v7RaPERlNoqSRRJtnbg7l3JjUxpXXlYzcrSLPnlgLzQ=="/>
     <elementParameter field="CHECK" name="ASSUME_ROLE" value="false"/>
     <elementParameter field="TEXT" name="ARN" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ROLE_SESSION_NAME" show="false" value="&quot;&quot;"/>
@@ -130,8 +130,8 @@
     <elementParameter field="CLOSED_LIST" name="ALGORITHM_SYMMETRIC_MASTER_KEY" show="false" value="AES"/>
     <elementParameter field="CLOSED_LIST" name="ALGORITHM_ASYMMETRIC_MASTER_KEY" show="false" value="RSA"/>
     <elementParameter field="CLOSED_LIST" name="ENCODING" show="false" value="BASE64"/>
-    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_CMK" show="false" value="enc:system.encryption.key.v1:vZmJtu+yGuqlVixZjO4pq586j4ce7LFnUYFoKXVz"/>
-    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_BASE64" show="false" value="enc:system.encryption.key.v1:/i4U/9cM0egsCtbQd0KqheEayHrESPnvqACheMHW"/>
+    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_CMK" show="false" value="enc:system.encryption.key.v1:UUhQG8+D3Cpk1B11gh9vS62/g6Whlfn/X4Q52z3B"/>
+    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_BASE64" show="false" value="enc:system.encryption.key.v1:+PxKBvGG7kjxcNujG97yGXABok4RsKjzJJiz20T0"/>
     <elementParameter field="FILE" name="ENCRYPTED_KEY_X509" show="false" value="&quot;&quot;"/>
     <elementParameter field="FILE" name="PUBLIC_KEY" show="false" value="&quot;&quot;"/>
     <elementParameter field="FILE" name="PRIVATE_KEY" show="false" value="&quot;&quot;"/>
@@ -165,7 +165,7 @@
     <elementParameter field="FILE" name="PROFILE_PATH" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="PROFILE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ACCESS_KEY" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:CDKDNLqP86LBs8rBrigCbKq9drkCzr44eBrueh+A"/>
+    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:fMogpwi21eKZ8f6/0KAHA8G9bZ6F/E4z9BssPfr+"/>
     <elementParameter field="CHECK" name="ASSUME_ROLE" show="false" value="false"/>
     <elementParameter field="TEXT" name="ARN" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ROLE_SESSION_NAME" show="false" value="&quot;&quot;"/>
@@ -246,7 +246,7 @@
     <elementParameter field="FILE" name="PROFILE_PATH" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="PROFILE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ACCESS_KEY" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:tblNcPyP1RchmPpdeOd6re7mADfUxufXZWbvzrUC"/>
+    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:YLS7W/kBkw0GoAYxWHyKNj1kE6Gnd0uJhK+3CG7v"/>
     <elementParameter field="CHECK" name="ASSUME_ROLE" show="false" value="false"/>
     <elementParameter field="TEXT" name="ARN" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ROLE_SESSION_NAME" show="false" value="&quot;&quot;"/>
@@ -257,8 +257,8 @@
     <elementParameter field="CLOSED_LIST" name="ALGORITHM_SYMMETRIC_MASTER_KEY" show="false" value="AES"/>
     <elementParameter field="CLOSED_LIST" name="ALGORITHM_ASYMMETRIC_MASTER_KEY" show="false" value="RSA"/>
     <elementParameter field="CLOSED_LIST" name="ENCODING" show="false" value="BASE64"/>
-    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_CMK" show="false" value="enc:system.encryption.key.v1:mEb78DXEt3FcFccUhX1+vzqk8UiFEOcw+LYrxjM5"/>
-    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_BASE64" show="false" value="enc:system.encryption.key.v1:S5DijbH0R+zcXXXgmjuYKyy+OQHnVgQBDkS5Ft3k"/>
+    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_CMK" show="false" value="enc:system.encryption.key.v1:dkr3eoBP0MPV/0sREgmPyKAYo/kYV77TD4IqJcE7"/>
+    <elementParameter field="PASSWORD" name="ENCRYPTED_KEY_BASE64" show="false" value="enc:system.encryption.key.v1:o9Vn3tYalTTWXWZuIcdIAxZpdmvXPONvi6t9Cops"/>
     <elementParameter field="FILE" name="ENCRYPTED_KEY_X509" show="false" value="&quot;&quot;"/>
     <elementParameter field="FILE" name="PUBLIC_KEY" show="false" value="&quot;&quot;"/>
     <elementParameter field="FILE" name="PRIVATE_KEY" show="false" value="&quot;&quot;"/>
@@ -391,11 +391,11 @@
       <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
     </metadata>
     <metadata connector="REJECT" label="metadata" name="REJECT">
-      <column comment="" key="false" length="500" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="ReportTime" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="true" length="500" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="ReportTime" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorJSONField" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
@@ -414,11 +414,11 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;test&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MSSQL"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sa&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:beQY1XO3S8IiLbvOf6kg2UVkioo5Tq3g85rJ5WoxO5hsao1COZB+"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:mY/EuMrQ+CwtRsn6ZyoIvOOOTE81nkWfjW3RLUEJrfcD0DW0ceGX"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;paycan_json&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CHECK" name="IDENTITY_INSERT" value="false"/>
-    <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
+    <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT_IF_NOT_EXIST"/>
     <elementParameter field="LABEL" name="NOTE" show="false" value="NOTE: batch size must be less than or equal to total number of parameter markers divided by number of columns"/>
     <elementParameter field="CHECK" name="SPECIFY_IDENTITY_FIELD" value="false"/>
     <elementParameter field="COLUMN_LIST" name="IDENTITY_FIELD" show="false" value="TransactionIdentification"/>
@@ -468,38 +468,37 @@
     <elementParameter field="CHECK" name="IGNORE_DATE_OUTOF_RANGE" value="false"/>
     <elementParameter field="CHECK" name="ENABLE_DEBUG_MODE" value="false"/>
     <elementParameter field="CHECK" name="SUPPORT_NULL_WHERE" value="false"/>
-    <elementParameter field="CHECK" name="USE_BATCH_SIZE" value="true"/>
-    <elementParameter field="TEXT" name="BATCH_SIZE" value="10000"/>
+    <elementParameter field="CHECK" name="USE_BATCH_SIZE" show="false" value="true"/>
+    <elementParameter field="TEXT" name="BATCH_SIZE" show="false" value="10000"/>
     <elementParameter field="CHECK" name="SET_QUERY_TIMEOUT" value="false"/>
     <elementParameter field="TEXT" name="QUERY_TIMEOUT_IN_SECONDS" show="false" value="30"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" label="metadata" name="tDBOutput_1">
-      <column comment="" key="false" length="500" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="ReportTime" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="true" length="500" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="ReportTime" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
     <metadata connector="REJECT" label="metadata" name="REJECT">
-      <column comment="" key="false" length="500" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="ReportTime" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="true" length="500" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="ReportTime" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="500" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tS3Copy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="256" posY="448">
+  <node componentName="tS3Copy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="608" posY="448">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tS3Copy_1"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
     <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="true"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="tS3Connection_1"/>
     <elementParameter field="CLOSED_LIST" name="CREDENTIAL_PROVIDER" show="false" value="STATIC_CREDENTIALS"/>
     <elementParameter field="FILE" name="PROFILE_PATH" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="PROFILE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ACCESS_KEY" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:luB1ZpJy5rMVYh9XzRXqBNlXIzqWOwrcWb+aAb7L"/>
+    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:u6L8gPw0nhdaD8zrAUAwj7OFYLwQnrcT+QLza/vT"/>
     <elementParameter field="CHECK" name="ASSUME_ROLE" show="false" value="false"/>
     <elementParameter field="TEXT" name="ARN" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ROLE_SESSION_NAME" show="false" value="&quot;&quot;"/>
@@ -508,7 +507,7 @@
     <elementParameter field="TEXT" name="FROM_BUCKET" value="((String)globalMap.get(&quot;tS3List_1_CURRENT_BUCKET&quot;))"/>
     <elementParameter field="TEXT" name="FROM_KEY" value="((String)globalMap.get(&quot;file_name&quot;))"/>
     <elementParameter field="TEXT" name="TO_BUCKET" value="&quot;com-enterprise-reporting-data-source-dev&quot;"/>
-    <elementParameter field="TEXT" name="TO_KEY" value="&quot;data/Keboola_test_use_cases/paycan_csv/Archived/&quot; + ((String)globalMap.get(&quot;file_name&quot;)).substring(((String)globalMap.get(&quot;file_name&quot;)).lastIndexOf(&quot;/&quot;) + 1)"/>
+    <elementParameter field="TEXT" name="TO_KEY" value="&quot;data/Keboola_test_use_cases/paycan_json/Archived/&quot; + ((String)globalMap.get(&quot;file_name&quot;)).substring(((String)globalMap.get(&quot;file_name&quot;)).lastIndexOf(&quot;/&quot;) + 1)"/>
     <elementParameter field="CHECK" name="ENABLE_SERVER_SIDE_ENCRYPTION" value="false"/>
     <elementParameter field="CHECK" name="ENABLE_KMS" show="false" value="false"/>
     <elementParameter field="TEXT" name="KMSID" show="false" value="&quot;&quot;"/>
@@ -532,16 +531,15 @@
     <elementParameter field="OPENED_LIST" name="CANNED_ACCESS_CONTROL_LIST" value="&quot;NONE&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
-  <node componentName="tS3Delete" componentVersion="0.102" offsetLabelX="-18" offsetLabelY="37" posX="544" posY="416">
+  <node componentName="tS3Delete" componentVersion="0.102" offsetLabelX="-18" offsetLabelY="37" posX="1024" posY="416">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tS3Delete_1"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
     <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="true"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="tS3Connection_1"/>
     <elementParameter field="CLOSED_LIST" name="CREDENTIAL_PROVIDER" show="false" value="STATIC_CREDENTIALS"/>
     <elementParameter field="FILE" name="PROFILE_PATH" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="PROFILE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ACCESS_KEY" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:Kamjm1P3fIiqbrjZxl4z8fEWA016KmWpjbxUCUN3"/>
+    <elementParameter field="PASSWORD" name="SECRET_KEY" show="false" value="enc:system.encryption.key.v1:EU/vdSkPj5IA7O+2F34hEBVD5trwJGhu8WaM8r8x"/>
     <elementParameter field="CHECK" name="ASSUME_ROLE" show="false" value="false"/>
     <elementParameter field="TEXT" name="ARN" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="ROLE_SESSION_NAME" show="false" value="&quot;&quot;"/>
@@ -566,10 +564,9 @@
     <elementParameter field="MEMO" name="POLICY" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
-  <node componentName="tFileList" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="608" posY="320">
+  <node componentName="tFileList" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="576" posY="320">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileList_2"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
-    <elementParameter field="DIRECTORY" name="DIRECTORY" value="&quot;D:/Talend-Studio/workspace/paycan_csv&quot;"/>
+    <elementParameter field="DIRECTORY" name="DIRECTORY" value="&quot;D:/Talend-Studio/workspace/paycan_json&quot;"/>
     <elementParameter field="CLOSED_LIST" name="LIST_MODE" value="FILES"/>
     <elementParameter field="CHECK" name="INCLUDSUBDIR" value="false"/>
     <elementParameter field="CLOSED_LIST" name="CASE_SENSITIVE" value="YES"/>
@@ -587,9 +584,8 @@
     <elementParameter field="CHECK" name="FORMAT_FILEPATH_TO_SLASH" value="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
-  <node componentName="tFileDelete" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="192" posY="320">
+  <node componentName="tFileDelete" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="160" posY="320">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileDelete_1"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
     <elementParameter field="FILE" name="FILENAME" show="false" value="&quot;D:/Talend-Studio/workspace/in.csv&quot;"/>
     <elementParameter field="DIRECTORY" name="DIRECTORY" show="false" value="&quot;D:/Talend-Studio/workspace/delete_folder&quot;"/>
     <elementParameter field="TEXT" name="PATH" value="((String)globalMap.get(&quot;tFileList_2_CURRENT_FILEPATH&quot;))"/>
@@ -599,466 +595,6 @@
     <elementParameter field="LABEL" name="NOTE" value="*Note &quot;CURRENT_STATUS&quot; including:&#10;&quot;File (or path) deleted.&quot;&#10;&quot;No file (or path) deleted.&quot;&#10;&quot;File (or path) does not exist or is invalid.&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tFileDelete_1"/>
-  </node>
-  <node componentName="tFileInputJSON" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="768" posY="384">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputJSON_1"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" show="false" value="_d2l-kFkOEe2FANUzOamRZg - metadata"/>
-    <elementParameter field="CLOSED_LIST" name="READ_BY" value="JSONPATH"/>
-    <elementParameter field="CLOSED_LIST" name="JSON_PATH_VERSION" value="2_1_0"/>
-    <elementParameter field="CHECK" name="USEURL" value="false"/>
-    <elementParameter field="TEXT" name="URLPATH" show="false" value="&quot;D:/Talend-Studio/workspace/paycan_json/TR_20220510_00001.json&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="((String)globalMap.get(&quot;tFileList_1_CURRENT_FILEPATH&quot;))"/>
-    <elementParameter field="TEXT" name="LOOP_QUERY" show="false" value="&quot;$.TransactionReport[*]&quot;"/>
-    <elementParameter field="TEXT" name="JSON_LOOP_QUERY" value="&quot;$.TransactionReport[*]&quot;"/>
-    <elementParameter field="TABLE" name="MAPPING" show="false">
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ReportTime"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification1"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Amount"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Currency"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Code"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification1"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ShortName"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name1"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification2"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="GUIType"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification3"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Reference"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Type"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TypeDescription"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueName"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueReason"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDate"/>
-      <elementValue elementRef="QUERY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDateTime"/>
-      <elementValue elementRef="QUERY" value=""/>
-    </elementParameter>
-    <elementParameter field="TABLE" name="MAPPING_JSONPATH">
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification"/>
-      <elementValue elementRef="QUERY" value="&quot;TransactionIdentification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ReportTime"/>
-      <elementValue elementRef="QUERY" value="&quot;ReportTime&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.References.TransactionIdentification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Amount"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Amount&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Currency"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Currency&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Code"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.BankTransactionCode.Proprietary.Code&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.DebtorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Name&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Identification.OrganisationIdentification.Other.Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ShortName"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.ShortName&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Creditor.Name&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification2"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.CreditorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="GUIType"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.APS_Specific.GUIType&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification3"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Reference"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Reference&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Type"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Type&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TypeDescription"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].TypeDescription&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueName"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueName&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueReason"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueReason&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDate"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDate&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDateTime"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDateTime&quot;"/>
-    </elementParameter>
-    <elementParameter field="TABLE" name="MAPPINGXPATH" show="false">
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification"/>
-      <elementValue elementRef="QUERY" value="&quot;TransactionIdentification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ReportTime"/>
-      <elementValue elementRef="QUERY" value="&quot;ReportTime&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.References.TransactionIdentification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Amount"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Amount&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Currency"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Currency&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Code"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.BankTransactionCode.Proprietary.Code&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.DebtorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Name&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Identification.OrganisationIdentification.Other.Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ShortName"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.ShortName&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Creditor.Name&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification2"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.CreditorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="GUIType"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.APS_Specific.GUIType&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification3"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Reference"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Reference&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Type"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Type&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TypeDescription"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].TypeDescription&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueName"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueName&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueReason"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueReason&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDate"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDate&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDateTime"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDateTime&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-    </elementParameter>
-    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" show="false" value="_d2l-kFkOEe2FANUzOamRZg - metadata"/>
-    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
-    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="&quot;,&quot;"/>
-    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="&quot;.&quot;"/>
-    <elementParameter field="CHECK" name="CHECK_DATE" show="false" value="false"/>
-    <elementParameter field="CHECK" name="USE_LOOP_AS_ROOT" value="false"/>
-    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;UTF-8&quot;"/>
-    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="UTF-8"/>
-    <elementParameter field="CHECK" name="USE_NASHORN" show="false" value="false"/>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="metadata" name="tFileInputJSON_1">
-      <column comment="" key="false" length="100" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ReportTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="TransactionIdentification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Amount" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Currency" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Code" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ShortName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification2" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="GUIType" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Identification3" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Reference" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Type" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="TypeDescription" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueReason" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDate" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDateTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-    </metadata>
-    <metadata connector="REJECT" label="metadata" name="REJECT">
-      <column comment="" key="false" length="100" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ReportTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="TransactionIdentification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Amount" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Currency" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Code" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ShortName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification2" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="GUIType" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Identification3" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Reference" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Type" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="TypeDescription" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueReason" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDate" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDateTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-    </metadata>
-  </node>
-  <node componentName="tExtractJSONFields" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="1024" posY="352">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tExtractJSONFields_1"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
-    <elementParameter field="CLOSED_LIST" name="READ_BY" value="JSONPATH"/>
-    <elementParameter field="CLOSED_LIST" name="JSON_PATH_VERSION" value="2_1_0"/>
-    <elementParameter field="PREV_COLUMN_LIST" name="JSONFIELD" value=""/>
-    <elementParameter field="TEXT" name="LOOP_QUERY" show="false" value="&quot;$.TransactionReport[*]&quot;"/>
-    <elementParameter field="TEXT" name="JSON_LOOP_QUERY" value="&quot;$.TransactionReport[*]&quot;"/>
-    <elementParameter field="TABLE" name="MAPPING" show="false">
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification"/>
-      <elementValue elementRef="QUERY" value="&quot;TransactionIdentification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ReportTime"/>
-      <elementValue elementRef="QUERY" value="&quot;ReportTime&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.References.TransactionIdentification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Amount"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Amount&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Currency"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Currency&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Code"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.BankTransactionCode.Proprietary.Code&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.DebtorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Name&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Identification.OrganisationIdentification.Other.Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ShortName"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.ShortName&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Creditor.Name&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification2"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.CreditorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="GUIType"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.APS_Specific.GUIType&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification3"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Identification&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Reference"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Reference&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Type"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Type&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TypeDescription"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].TypeDescription&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueName"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueName&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueReason"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueReason&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDate"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDate&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDateTime"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDateTime&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="ISARRAY" value=""/>
-    </elementParameter>
-    <elementParameter field="TABLE" name="MAPPING_4_JSONPATH">
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification"/>
-      <elementValue elementRef="QUERY" value="&quot;TransactionIdentification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ReportTime"/>
-      <elementValue elementRef="QUERY" value="&quot;ReportTime&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.References.TransactionIdentification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Amount"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Amount&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Currency"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Currency&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Code"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.BankTransactionCode.Proprietary.Code&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.DebtorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Name&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Debtor.Identification.OrganisationIdentification.Other.Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ShortName"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.ShortName&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Name1"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.Creditor.Name&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification2"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.TransactionDetails.CreditorAccount.Identification.Other.Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="GUIType"/>
-      <elementValue elementRef="QUERY" value="&quot;Detail.APS_Specific.GUIType&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Identification3"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Identification&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Reference"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Reference&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Type"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].Type&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="TypeDescription"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].TypeDescription&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueName"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueName&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="QueueReason"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].QueueReason&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDate"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDate&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CreationDateTime"/>
-      <elementValue elementRef="QUERY" value="&quot;BatchDetails[*].CreationDateTime&quot;"/>
-    </elementParameter>
-    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" show="false" value="_d2l-kFkOEe2FANUzOamRZg - metadata"/>
-    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
-    <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;UTF-8&quot;"/>
-    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" show="false" value="UTF-8"/>
-    <elementParameter field="CHECK" name="USE_LOOP_AS_ROOT" value="false"/>
-    <elementParameter field="CHECK" name="SPLIT_LIST" show="false" value="true"/>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="metadata" name="tExtractJSONFields_1">
-      <column comment="" key="false" length="100" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ReportTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="TransactionIdentification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Amount" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Currency" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Code" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ShortName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification2" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="GUIType" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Identification3" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Reference" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Type" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="TypeDescription" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueReason" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDate" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDateTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-    </metadata>
-    <metadata connector="REJECT" label="metadata" name="REJECT">
-      <column comment="" key="false" length="100" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ReportTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="TransactionIdentification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Amount" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Currency" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Code" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="ShortName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Name1" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="100" name="Identification2" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="GUIType" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Identification3" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Reference" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="Type" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="TypeDescription" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueName" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="QueueReason" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDate" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="200" name="CreationDateTime" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorJSONField" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-    </metadata>
-  </node>
-  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="896" posY="320">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tLogRow_1"/>
-    <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
-    <elementParameter field="RADIO" name="BASIC_MODE" value="true"/>
-    <elementParameter field="RADIO" name="TABLE_PRINT" value="false"/>
-    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
-    <elementParameter field="RADIO" name="PRINT_UNIQUE" show="false" value="true"/>
-    <elementParameter field="RADIO" name="PRINT_LABEL" show="false" value="false"/>
-    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" show="false" value="false"/>
-    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;"/>
-    <elementParameter field="CHECK" name="PRINT_HEADER" value="false"/>
-    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" value="false"/>
-    <elementParameter field="CHECK" name="PRINT_COLNAMES" value="false"/>
-    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" value="false"/>
-    <elementParameter field="TABLE" name="LENGTHS" show="false">
-      <elementValue elementRef="SCHEMA_COLUMN" value="TransactionIdentification"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="ReportTime"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Detail_TransactionDetails_References_TransactionIdentification"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Detail_TransactionDetails_Amount"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Detail_TransactionDetails_Currency"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-    </elementParameter>
-    <elementParameter field="CHECK" name="PRINT_CONTENT_WITH_LOG4J" value="true"/>
-    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="metadata" name="tLogRow_1">
-      <column comment="" key="false" length="7793" name="TransactionIdentification" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="ReportTime" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="Detail_TransactionDetails_References_TransactionIdentification" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="Detail_TransactionDetails_Amount" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="Detail_TransactionDetails_Currency" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-    </metadata>
   </node>
   <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tS3Connection_1" offsetLabelX="0" offsetLabelY="0" source="tS3Connection_1" target="tS3List_1">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk1"/>
@@ -1098,21 +634,17 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row4"/>
   </connection>
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tDBOutput_1" offsetLabelX="0" offsetLabelY="0" source="tDBOutput_1" target="tFileList_2">
-    <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk2"/>
   </connection>
-  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tS3Copy_1" offsetLabelX="0" offsetLabelY="0" source="tS3Copy_1" target="tS3Delete_1">
-    <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk2"/>
+  <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tS3Copy_1" offsetLabelX="0" offsetLabelY="0" source="tS3Copy_1" target="tS3Delete_1">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk4"/>
   </connection>
   <connection connectorName="ITERATE" label="Iterate" lineStyle="7" metaname="tFileList_2" offsetLabelX="0" offsetLabelY="0" source="tFileList_2" target="tFileDelete_1">
     <elementParameter field="CHECK" name="ENABLE_PARALLEL" value="false"/>
     <elementParameter field="TEXT" name="NUMBER_PARALLEL" show="false" value="2"/>
-    <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="iterate4"/>
   </connection>
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tFileDelete_1" offsetLabelX="0" offsetLabelY="0" source="tFileDelete_1" target="tS3Copy_1">
-    <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk3"/>
   </connection>
   <subjob>
@@ -1145,28 +677,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-  <subjob>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputJSON_1"/>
-    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
-    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
-  </subjob>
-  <subjob>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tExtractJSONFields_1"/>
-    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
-    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
-  </subjob>
-  <subjob>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tLogRow_1"/>
-    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
-    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
-  </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_2da8eab7-4911-44e3-ade5-e2ebb8527253"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>+Qhe+9lOqM3/o+9IBM0TN/MosNV7hSPCmUD0AG7bX3gQzP0+L9QorBjon0IaMNexKNzkIxmiBns4&#13;
-7tECkjk+Vg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_81899aac-a9e8-4163-aa67-4d5eb5c273a9"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>gL9ZwR9Q5Ezn6l2IJRAax1FNsbje5u02lhtT79r/a8P5VTx6+kF3SkUd1+sogRlYILvij+d68nRp&#13;
-xkvM/8EiTg==</DigestValue></Reference></SignedInfo><SignatureValue>d+Bt7Ngj/n1fDKsvmLAkC48xqLdeJjJKcWxYUkVTCc7J3XQSu0HlEf6nyCU7IF097Ks1PP8spVCt&#13;
-OHJPyJCCRy/hAmMPKvJR7JEsMympvqDr388DgNQTO49yqPINytsccO97nYaK59UKhaalukT5sgOu&#13;
-MiC8pKEjRcaTIRj+0PuUpSaPw9q6z0wZFs+x6MQE3WeirexkIt7mWzYm0vfl2JTvy/nb8fDDbD25&#13;
-tsjFr9YeHSziWM7ZA5OWHBJllDOWvJ1rTJevEZlHYSAXbCtMH8/oEkekpzMlWKyeqFri7VPkA2RC&#13;
-cG1A+Yy+Q3RVStJpbFF45VX1I3SfpStd8l7zFg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a52bf3fa-0423-4dd4-8eb6-9faf91cee07a"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>oW3/1INUpiP0tytKqgf2W577SroK54wybrF5wgcNNGwXns174sHQURj6zLZV503crH7mVvmwZQnk&#13;
+2eiDJPGjWg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_8c534bd1-1fae-4190-be24-7078d5a73f4d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>XWOtl1wcorLDRVdGFbKWS5fAfWXox3l5fbehQPyzjIv6TKSjWyO/S7Y32ZXF1PgOi3PqSWPpH53Q&#13;
+J6Si9PslHA==</DigestValue></Reference></SignedInfo><SignatureValue>H1AaUQom6zGuLF5EWt5chtgSXjn/XHrD300r1adhvd2YYG8nCkhBDe9RZMT8NsnEMi0X6+N5qsoS&#13;
+E/b+g0wJDvaN16TmfPvddFFlUtd2dMR67kvvH+eqQqsI1Q52LuMpEErddb6v/BjgDdS9mBPHSSUs&#13;
+jJSS5DtsnS73wmqwJLIbZi7I5rh1loda6doNu0m8Na/QhhtVW3axnArxht8OA6rX9Lv5Qz3ZNbBd&#13;
+A38hX/PDU2fnFDgc/2jLtFfRiZ8aMz4TjoviZy+SkXaGjl2MIngqjMrmBcYt2dS6PsZMpp/10rx9&#13;
+g+eKAPBNdX+0I/PT4ZZrQTFfk1Kv8QlAnrQmiA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -1188,4 +705,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_81899aac-a9e8-4163-aa67-4d5eb5c273a9" Target="#_2da8eab7-4911-44e3-ade5-e2ebb8527253"><Timestamp>2022-10-31 14:42:03</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_8c534bd1-1fae-4190-be24-7078d5a73f4d" Target="#_a52bf3fa-0423-4dd4-8eb6-9faf91cee07a"><Timestamp>2022-11-01 08:44:48</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
